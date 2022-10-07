@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tega Okorare
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning react native
+- 👀 I’m interested in web mobile & game development
+- 🌱 I’m currently learning unity & C#
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach me on contact@tegacreatives.com
 
