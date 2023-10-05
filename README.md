@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegacreatives&label=Profile%20views&color=0e75b6&style=flat" alt="tegacreatives" /> </p>
 
--  I'm a software engineer experienced in working on web and mobile projects and I do find intrest trying out new javascript technologies and more recently I've been trying out golang.
-
+- I'm a software engineer experienced in working on web and mobile projects and I do find interest in trying out new javascript technologies more recently I've been trying out Golang.
+  
 - 📫 How to reach me **contact@tegacreatives.com**
 
 <h3 align="left">Connect with me:</h3>
